@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "build": "hexo generate && npm run meta-data --scripts-prepend-node-path",
-	"meta-data": "node ./node_modules/.bin/hexo-meta-data"
+    "meta-data": "node ./node_modules/.bin/hexo-meta-data"
   },
   "hexo": {
-    "version": "5.0.0"
+    "version": "5.1.1"
   },
   "dependencies": {
     "@git-story/hexo-meta-data": "^1.0.2",
