@@ -21,8 +21,8 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npm ci
     - run: npm install
+    - run: npm ci
     - run: npm run build
     - name: push
       uses: github-actions-x/commit@v2.6
