@@ -7,10 +7,10 @@
     "meta-data": "node ./node_modules/.bin/hexo-meta-data"
   },
   "hexo": {
-    "version": "5.1.1"
+    "version": "5.4.0"
   },
   "dependencies": {
-    "@git-story/hexo-meta-data": "^1.0.2",
+    "@git-story/hexo-meta-data": "^1.0.4",
     "hexo": "^5.0.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
