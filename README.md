@@ -26,3 +26,5 @@ npm run build
 `meta-data.json`은 헥소 공식 파일이 아니지만, GIT-STORY에서 사용하는 데이터 파일입니다.
 
 `docs` 폴더에 정적 웹 파일이 생성되며, github pages는 해당 폴더를 참조합니다.
+
+새로운 페이지가 커밋되면, Actions가 자동으로 빌드해 커밋합니다.
