@@ -35,8 +35,8 @@ jobs:
         push-branch: 'master'
         commit-message: 'build commit'
         force-add: 'true'
-        name: 'Github Actions'
-        email: 'git.page-story@gmail.com'
+        name: 'git-story-bot'
+        email: 'git.page.story@gmail.com'
         file-path: |
           meta-data.json
           docs/**
