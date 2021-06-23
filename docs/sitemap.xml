@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://git-story.github.io/git-story-template/2021/05/24/hello-world/</loc>
+    <loc>https://git-story.github.io/git-story-template/2021/05/23/hello-world/</loc>
     
     <lastmod>2021-05-28</lastmod>
     
@@ -11,7 +11,7 @@
 
   <url>
     <loc>https://git-story.github.io/git-story-template</loc>
-    <lastmod>2021-06-15</lastmod>
+    <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
